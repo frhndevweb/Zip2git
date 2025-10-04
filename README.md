@@ -46,7 +46,7 @@ Buka file `config.json` lalu ubah jadi seperti ini:
 Pastikan file ZIP lo udah ada di Termux. Misal:
 
 ```
-/storage/emulated/0/Documents/G01-ST-Pro.zip
+/storage/emulated/0/Documents/Zip2git.zip
 ```
 
 Kalau belum bisa diakses, aktifkan izin storage:
